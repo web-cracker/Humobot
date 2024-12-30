@@ -12,6 +12,17 @@ Humobot is a human-following robot designed and built entirely from scratch as m
 
 ---
 
+---
+
+## Images
+
+**HUMOBOT**: [Humobot](https://github.com/user-attachments/assets/706aeb6b-92fb-4473-ac3d-dfdc5a22ae68)
+
+**Circuit Diagram**: [Circuit Diagram](https://github.com/user-attachments/assets/d2a278d4-3185-4722-8f44-9d0d88fd6890)
+
+
+---
+
 ## Video Demonstration
 
 🎥 **Watch Humobot in Action**: [Humobot Demonstration Video](https://console.cloudinary.com/pm/c-07e899acd02cf2d79e0ba51da47247/media-explorer?assetId=59b8a2759b3f73b39bf48dab7f43495f)

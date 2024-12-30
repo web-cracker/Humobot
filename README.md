@@ -58,3 +58,7 @@ I am passionate about building innovative solutions and taking ideas from concep
 
 Feel free to explore the repository and connect with me for further discussions or collaborations!
 
+---
+
+## Give a ⭐
+If you find this project inspiring or useful, don’t forget to give a ⭐ on the repository to show your support!
